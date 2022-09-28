@@ -16,3 +16,118 @@ a {
 img {
   max-width: 100%;
 }
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/1.woff2') format('woff2');
+	font-weight: 1;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/300.woff2') format('woff2');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/300i.woff2') format('woff2');
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/400.woff2') format('woff2');
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/400i.woff2') format('woff2');
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/500.woff2') format('woff2');
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/500i.woff2') format('woff2');
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/600.woff2') format('woff2');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/600i.woff2') format('woff2');
+	font-weight: 600;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/700.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/700i.woff2') format('woff2');
+	font-weight: 700;
+	font-style: italic;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/800.woff2') format('woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Open Sans';
+	src: url('https://348810.selcdn.ru/webfont/opensans/800i.woff2') format('woff2');
+	font-weight: 800;
+	font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue Thin'), local('BebasNeue-Thin'), url('https://hb.bizmrg.com/fonts/bebasneue/100.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/bebasneue/100.woff') format('woff');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue Light'), local('BebasNeue-Light'), url('https://hb.bizmrg.com/fonts/bebasneue/200.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/bebasneue/200.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue Book'), local('BebasNeueBook'), url('https://hb.bizmrg.com/fonts/bebasneue/300.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/bebasneue/300.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue Regular'), local('BebasNeueRegular'), url('https://hb.bizmrg.com/fonts/bebasneue/400.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/bebasneue/400.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Bebas Neue';
+  src: local('Bebas Neue Bold'), local('BebasNeueBold'), url('https://hb.bizmrg.com/fonts/bebasneue/700.woff2') format('woff2'), url('https://hb.bizmrg.com/fonts/bebasneue/700.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body  {
+  font-family: 'Open Sans',  Helvetica, sans-serif;
+}
+
