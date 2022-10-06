@@ -289,7 +289,7 @@ p {
   margin-bottom: 118px;
 }
 
-.site-cection__title {
+.site-section__title {
   font-size: 18px;
   font-weight: 700;
   line-height: 21.09px;
@@ -423,7 +423,7 @@ p {
   margin-bottom: 115px;
 }
 
-.section-services_header  {
+.section-services__header  {
   margin-bottom: 80px;
 }
 
@@ -443,7 +443,7 @@ p {
   height: 2px;
 }
 
-.section-sevices__top-text  {
+.section-services__top-text  {
   margin-right: 31.2px;
   font-size: 11px;
   font-weight: 400;
@@ -451,7 +451,7 @@ p {
   color: #48555b;
 }
 
-.section-sevices__top-text:not(:last-child) {
+.section-services__top-text:not(:last-child) {
   margin-bottom: 19px;
 }
 
@@ -597,7 +597,7 @@ p {
   text-transform: uppercase;
 }
 
-.foooter-logo {
+.footer-logo {
   display: block;
   margin-bottom: 15px;
 }
